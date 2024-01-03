@@ -64,12 +64,8 @@ class Program
                                 Console.WriteLine("Opção inválida!");
                                 break;
                         }
-
                     }
-                    break;
-
-                    
-                    break;
+                    break;                   
                 case 3:
                     Console.WriteLine("Escolha um número:");
                     float numero1 = Convert.ToInt32(Console.ReadLine());
